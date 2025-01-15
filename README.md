@@ -12,8 +12,7 @@ Usage
 To use the DnsServer, follow these steps:
 
     Clone the repository to your local machine.
-    Code
-
+    
     git clone https://github.com/Sebastians-codes/DnsServer.git
 
     Open the project in your preferred C# development environment (e.g., Visual Studio).
